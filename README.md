@@ -1,4 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
+# NAME:R.SUBHASHRI
+# REG NO:212223230219
+# CONTROL OF RELAY USING IOT CONTROLLER
 
 ##  AIM:
 To control the Relay using Arduino controller
